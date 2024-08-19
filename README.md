@@ -71,7 +71,7 @@ The application will be accessible at http://localhost:8501 in your web browser.
 
 ### Application Screenshot
 
-![Application Screenshot](images/Screenshot 2024-08-19 164701.png)
+![Application Screenshot](images/screenshot.png)
    
 
 ### Contributing
