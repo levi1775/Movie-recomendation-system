@@ -41,7 +41,7 @@ To get a local copy of the project up and running, follow these simple steps:
 You can download the dataset used for this project [here]( https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
 ### Installation
-
+---
 1. Clone the repository:
    ```bash
    git clone https://github.com/levi1775/movierecommendation.git
