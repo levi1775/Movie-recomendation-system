@@ -38,7 +38,7 @@ To get a local copy of the project up and running, follow these simple steps:
 
 ### Dataset
 
-You can download the dataset used for this project [here]( https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) (replace `#` with the actual URL).
+You can download the dataset used for this project [here]( https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
 ### Installation
 
@@ -58,8 +58,9 @@ You can download the dataset used for this project [here]( https://www.kaggle.co
 To run the Streamlit application locally, use the following command:
 ```bash
 streamlit run app.py
+The application will be accessible at http://localhost:8501 in your web browser.
 
-
-   
+### Usage
+Once the application is running, simply input the name of a movie you like, and the system will generate a list of similar movies based on the cosine similarity of their features.   
 
 
