@@ -46,6 +46,6 @@ You can download the dataset used for this project [here](#) (replace `#` with t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movierecommendation.git
+   git clone https://github.com/levi1775/movierecommendation.git
 
 
