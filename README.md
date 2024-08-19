@@ -65,13 +65,9 @@ The application will be accessible at http://localhost:8501 in your web browser.
   Once the application is running, simply input the name of a movie you like, and the system will generate a list of similar movies based on the cosine similarity 
   of their features.
 
-### Screenshot
+### Application preview
    Here’s a preview of the web application:
-   ![Application Screenshot](images/Screenshot 2024-08-19 164701.png)
-
-### Application Screenshot
-
-![Application Screenshot](images/screenshot.png)
+  ![Application Screenshot](images/screenshot.png)
    
 
 ### Contributing
