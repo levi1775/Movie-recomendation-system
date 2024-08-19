@@ -59,11 +59,15 @@ You can download the dataset used for this project [here]( https://www.kaggle.co
   ```bash
   streamlit run app.py
 
-This will place "The application will be accessible at http://localhost:8501 in your web browser." on a new line, separated from the command block.
+The application will be accessible at http://localhost:8501 in your web browser.
 
 ### Usage
   Once the application is running, simply input the name of a movie you like, and the system will generate a list of similar movies based on the cosine similarity 
   of their features.
+
+### Screenshot
+   Here’s a preview of the web application:
+
     
 - **Screenshots**:
   - The screenshot section includes a placeholder for an image. You need to replace `path/to/your/screenshot.png` with the actual path or URL.
