@@ -55,8 +55,11 @@ You can download the dataset used for this project [here]( https://www.kaggle.co
    pip install -r requirements.txt
 
 ### Running the Application
-  - To run the Streamlit application locally, use the following command: "streamlit run app.py"
-  The application will be accessible at http://localhost:8501 in your web browser.
+- To run the Streamlit application locally, use the following command:
+  ```bash
+  streamlit run app.py
+
+This will place "The application will be accessible at http://localhost:8501 in your web browser." on a new line, separated from the command block.
 
 ### Usage
   Once the application is running, simply input the name of a movie you like, and the system will generate a list of similar movies based on the cosine similarity 
