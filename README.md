@@ -54,7 +54,7 @@ You can download the dataset used for this project [here]( https://www.kaggle.co
    ```bash
    pip install -r requirements.txt
 
-
+### Running the Application
 - **Running the Application**: 
   - To run the Streamlit application locally, use the following command: "streamlit run app.py"
   - The link to `http://localhost:8501` is formatted as a clickable hyperlink.
