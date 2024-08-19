@@ -55,11 +55,37 @@ You can download the dataset used for this project [here]( https://www.kaggle.co
    pip install -r requirements.txt
 
 ### Running the Application
+
 To run the Streamlit application locally, use the following command:
+
 ```bash
 streamlit run app.py
-The application will be accessible at http://localhost:8501 in your web browser.
 
-### Usahe
+
+
+### Breakdown:
+
+- **Running the Application**: 
+  - The `streamlit run app.py` command is enclosed in a code block.
+  - The link to `http://localhost:8501` is formatted as a clickable hyperlink.
+
+- **Usage**: 
+  - General instructions are provided in plain text to ensure clarity.
+
+- **Screenshots**:
+  - The screenshot section includes a placeholder for an image. You need to replace `path/to/your/screenshot.png` with the actual path or URL.
+  - The image itself is embedded using the `![alt text](URL)` Markdown syntax.
+
+- **Contributing**: 
+  - This section encourages contributions and is presented in a simple, clear paragraph.
+
+- **License**:
+  - The license information is linked to your `LICENSE` file for easy reference.
+
+- **Contact**:
+  - The contact section uses **bold** for your name and a mailto link for your email, making it easy for others to get in touch with you.
+
+Using this format will give your README a polished, professional appearance, with clear instructions and easy navigation.
+
 
 
