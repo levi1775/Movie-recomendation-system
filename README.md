@@ -46,18 +46,18 @@ You can download the dataset used for this project [here]( https://www.kaggle.co
    ```bash
    git clone https://github.com/levi1775/movierecommendation.git
 
-2. Navigate to the project directory:
 
 ### Explanation:
 
-- **Each Command is in a Code Block**: 
-  - `git clone`, `cd movierecommendation`, `pip install -r requirements.txt`, and `streamlit run app.py` are all commands that users will need to run in their terminal.
-  - They are each enclosed in triple backticks (\`\`\`) to format them as code blocks, which makes the commands easy to copy and paste.
+- **Numbered Steps**: Each step is numbered (`1.`, `2.`, `3.`) to create a clear sequence that users can follow.
+- **Code Blocks**: 
+   - The triple backticks (\`\`\`) are used to format commands (`git clone`, `cd movierecommendation`, `pip install`, `streamlit run`) in a way that they stand out and are easy to read.
+   - The word `bash` after the first triple backtick specifies the language for syntax highlighting, making the commands more readable.
 
-- **Sequential Steps**: 
-  - Each step is numbered, creating a logical flow that guides the user from cloning the repository to running the application.
+By following these instructions, your README will clearly guide users through setting up and running your project.
 
-This formatting ensures that every command is presented clearly, making your README easy to follow for anyone setting up your project.
+
+
    
 
 
