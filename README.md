@@ -40,8 +40,8 @@ To get a local copy of the project up and running, follow these simple steps:
 
 You can download the dataset used for this project [here]( https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
-### Installation
-<hr style="border: 1px solid #ccc;" />
+## Installation
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/levi1775/movierecommendation.git
@@ -54,30 +54,30 @@ You can download the dataset used for this project [here]( https://www.kaggle.co
    ```bash
    pip install -r requirements.txt
 
-### Running the Application
+## Running the Application
 - To run the Streamlit application locally, use the following command:
   ```bash
   streamlit run app.py
 
 The application will be accessible at http://localhost:8501 in your web browser.
 
-### Usage
+## Usage
 
   Once the application is running, simply input the name of a movie you like, and the system will generate a list of similar movies based on the cosine similarity 
   of their features.
 
-### Application preview
+## Application preview
    Here’s a preview of the web application:
   ![Application Screenshot](images/screenshot.png)
    
 
-### Contribution
+## Contribution
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any improvements or enhancements.
 
-### License
+## License
  This project is licensed under the MIT License.   
 
-### Contact
+## Contact
 For any inquiries, please contact **Vedant Pimple** at your vedantpimple1775@gmail.com
 
 
