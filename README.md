@@ -55,29 +55,26 @@ You can download the dataset used for this project [here]( https://www.kaggle.co
    pip install -r requirements.txt
 
 
-### Breakdown:
-
 - **Running the Application**: 
-  - The `streamlit run app.py` command is enclosed in a code block.
+  - To run the Streamlit application locally, use the following command: "streamlit run app.py"
   - The link to `http://localhost:8501` is formatted as a clickable hyperlink.
 
 - **Usage**: 
-  - General instructions are provided in plain text to ensure clarity.
+  - Once the application is running, simply input the name of a movie you like, and the system will generate a list of similar movies based on the cosine 
+    similarity of their features.
 
 - **Screenshots**:
   - The screenshot section includes a placeholder for an image. You need to replace `path/to/your/screenshot.png` with the actual path or URL.
   - The image itself is embedded using the `![alt text](URL)` Markdown syntax.
 
 - **Contributing**: 
-  - This section encourages contributions and is presented in a simple, clear paragraph.
+  - Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any improvements or enhancements.
 
 - **License**:
-  - The license information is linked to your `LICENSE` file for easy reference.
+  - This project is licensed under the MIT License.
 
-- **Contact**:
-  - The contact section uses **bold** for your name and a mailto link for your email, making it easy for others to get in touch with you.
-
-Using this format will give your README a polished, professional appearance, with clear instructions and easy navigation.
+- **Contact**: 
+  - For any inquiries, please contact **Vedant Pimple** at your.email@example.com.
 
 
 
