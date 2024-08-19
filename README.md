@@ -1,5 +1,3 @@
-###Dataset Link : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
-
 # Movie Recommendation System
 
 Welcome to the **Movie Recommendation System** project! This repository contains the code and resources for a content-based movie recommender system developed using cosine similarity. The system is designed to provide personalized movie recommendations based on user preferences and is deployed as a web application using Streamlit.
@@ -40,7 +38,7 @@ To get a local copy of the project up and running, follow these simple steps:
 
 ### Dataset
 
-You can download the dataset used for this project [here](#) (replace `#` with the actual URL).
+You can download the dataset used for this project [here]( https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) (replace `#` with the actual URL).
 
 ### Installation
 
