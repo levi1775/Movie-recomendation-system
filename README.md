@@ -68,19 +68,14 @@ The application will be accessible at http://localhost:8501 in your web browser.
 ### Screenshot
    Here’s a preview of the web application:
 
-    
-- **Screenshots**:
-  - The screenshot section includes a placeholder for an image. You need to replace `path/to/your/screenshot.png` with the actual path or URL.
-  - The image itself is embedded using the `![alt text](URL)` Markdown syntax.
+### Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any improvements or enhancements.
 
-- **Contributing**: 
-  - Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any improvements or enhancements.
+### License
+ This project is licensed under the MIT License.   
 
-- **License**:
-  - This project is licensed under the MIT License.
-
-- **Contact**: 
-  - For any inquiries, please contact **Vedant Pimple** at your.email@example.com.
+### Contact
+For any inquiries, please contact **Vedant Pimple** at your vedantpimple1775@gmail.com
 
 
 
