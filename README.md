@@ -62,6 +62,7 @@ You can download the dataset used for this project [here]( https://www.kaggle.co
 The application will be accessible at http://localhost:8501 in your web browser.
 
 ### Usage
+
   Once the application is running, simply input the name of a movie you like, and the system will generate a list of similar movies based on the cosine similarity 
   of their features.
 
