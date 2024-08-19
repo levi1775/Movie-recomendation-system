@@ -47,14 +47,13 @@ You can download the dataset used for this project [here]( https://www.kaggle.co
    git clone https://github.com/levi1775/movierecommendation.git
 
 
-### Explanation:
-
-- **Numbered Steps**: Each step is numbered (`1.`, `2.`, `3.`) to create a clear sequence that users can follow.
-- **Code Blocks**: 
-   - The triple backticks (\`\`\`) are used to format commands (`git clone`, `cd movierecommendation`, `pip install`, `streamlit run`) in a way that they stand out and are easy to read.
-   - The word `bash` after the first triple backtick specifies the language for syntax highlighting, making the commands more readable.
-
-By following these instructions, your README will clearly guide users through setting up and running your project.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/levi1775/movierecommendation.git
+   
+2. Clone the repository:
+   ```bash
+   cd movierecommendation
 
 
 
