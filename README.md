@@ -69,6 +69,11 @@ The application will be accessible at http://localhost:8501 in your web browser.
    Here’s a preview of the web application:
    ![Application Screenshot](images/Screenshot 2024-08-19 164701.png)
 
+### Application Screenshot
+
+![Application Screenshot](images/Screenshot 2024-08-19 164701.png)
+   
+
 ### Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss any improvements or enhancements.
 
