@@ -44,11 +44,11 @@ You can download the dataset used for this project [here]( https://www.kaggle.co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/levi1775/movierecommendation.git
+   git clone https://github.com/levi1775/Movie-recomendation-system.git
    
 2. Navigate to the project directory:
    ```bash
-   cd movierecommendation
+   cd Movie-recomendation-system
 
 3. Install the required packages:
    ```bash
